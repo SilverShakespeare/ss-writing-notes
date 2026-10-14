@@ -1,4 +1,4 @@
-# 银莎的写作经验集
+# 银莎的叙事写作指南
 
 > 画面感 · 镜头感 · 叙事节奏：一套可操作的写作方法
 
@@ -37,7 +37,7 @@
 
 | 文件 | 说明 |
 | --- | --- |
-| [`Yinsha-Writing-Notes.pdf`](Yinsha-Writing-Notes.pdf) | 全书（A4，63 页） |
+| [`Yinsha-Narrative-Writing-Guide.pdf`](Yinsha-Narrative-Writing-Guide.pdf) | 全书（A4，63 页） |
 | [`LICENSE`](LICENSE) | CC BY-NC-ND 4.0 许可协议全文 |
 | `README.md` | 本说明 |
 
@@ -51,7 +51,7 @@
 
 协议全文见 [`LICENSE`](LICENSE)，或访问 <https://creativecommons.org/licenses/by-nc-nd/4.0/>。
 
-> 银莎的写作经验集 © 2026 by 银色莎士比亚 Silver Shakespeare is licensed under CC BY-NC-ND 4.0.
+<a href="https://github.com/SilverShakespeare/yinsha-writing-notes">银莎的叙事写作指南</a> © 2026 by <a href="https://github.com/SilverShakespeare">银色莎士比亚 Silver Shakespeare</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## 致谢与声明
 
